@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 // ضع التوكن الصحيح الخاص بك هنا
-const access_token = 'SP_23xmW65ERyDklvfBQVNMuTZSzn4lGOLQU7qkoeYc8iq0hfAJEIMkF';
+const access_token = 'd257805e080c350383945d54435202cc';
 
 async function createCoupon() {
     try {
